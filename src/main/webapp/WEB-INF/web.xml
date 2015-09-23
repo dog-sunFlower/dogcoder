@@ -33,6 +33,6 @@
 
 	<servlet-mapping>
 		<servlet-name>appServlet</servlet-name>
-		<url-pattern>/dogcoder/*</url-pattern>
+		<url-pattern>/wwlife/*</url-pattern>
 	</servlet-mapping>
 </web-app>

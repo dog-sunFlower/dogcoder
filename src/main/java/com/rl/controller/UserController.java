@@ -15,7 +15,7 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.List;
 
 @Controller
-@RequestMapping("/user/")
+@RequestMapping("/")
 public class UserController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(UserController.class);
